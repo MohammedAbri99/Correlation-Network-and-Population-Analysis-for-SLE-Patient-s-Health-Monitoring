@@ -1,0 +1,1 @@
+We remove the Data of two columns Patient National ID and Patient MRN since these two columns are personal information
